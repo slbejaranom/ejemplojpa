@@ -12,7 +12,6 @@ import org.springframework.stereotype.Component;
 
 @Component
 public class Application {
-
   @Autowired private UsuarioRepository usuarioRepository;
   @Autowired private PostRepository postRepository;
 

@@ -1,3 +1,15 @@
+# Para correr la aplicación
+
+- Tener Java 11 descargado
+
+## Comandos para correr la aplicación
+### Windows
+git clone https://github.com/slbejaranom/ejemplojpa
+cd ejemplojpa
+./gradlew build
+./gradlew bootRun
+
+
 # Getting Started
 
 ### Reference Documentation

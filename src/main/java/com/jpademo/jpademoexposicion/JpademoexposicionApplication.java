@@ -1,5 +1,6 @@
 package com.jpademo.jpademoexposicion;
 
+import com.jpademo.jpademoexposicion.entity.Usuario;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

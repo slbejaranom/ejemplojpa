@@ -19,7 +19,7 @@ public class Application {
   public void run() {
     //Creamos un nuevo usuario
     Usuario user = Usuario.builder()
-        .username("slbejaranom")
+        .username("slbm1996")
         .password("slbejaranom")
         .nombre("Sebastian")
         .apellido("Bejarano")
